@@ -1,0 +1,7 @@
+{
+    "name":"Progrssive Web Application Template",
+    "short_name":"PWA",
+    "lang": "en-US",
+    "start_url": "/index.html",
+    "display": "standalone"
+}
